@@ -1,4 +1,4 @@
-STM32MP157C 4xADC RPMSG test firmware
+STM32MP157C 4xADC RPMSG firmware
 ----
 
 This code is based on the cmake template for STM32MP157C which is located [here](https://github.com/dimtass/stm32mp1-cmake-template).
